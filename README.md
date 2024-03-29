@@ -8,12 +8,6 @@
 - 💼 I’m looking to collaborate on projects related to predictive modeling, data-driven decision making, and business intelligence.
 - 📫 You can reach me via email at job.darshanmurkute2308@gmail.com 
 - ⚡ Fun fact: I love experimenting with different data visualization techniques to create captivating and insightful visualizations that tell compelling stories from raw data.
-## Connect with me
-
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](www.linkedin.com/in/darshan-murkute)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://x.com/darsh_2308?s=21)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>]([https://www.instagram.com/your-instagram-profile](https://www.instagram.com/d.a.r.s.h.a.n_?igsh=YW9lNmxub3B0MzBn&utm_source=qr))
-[<img src="https://img.icons8.com/color/48/000000/email.png"/>](mailto:job.darshanmurkute2308@gmail.com)
 
 ## Tools I'm Familiar With
 
@@ -40,6 +34,12 @@
 - Google Data Studio
 - Alteryx
 
+## Connect with me
+
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](www.linkedin.com/in/darshan-murkute)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://x.com/darsh_2308?s=21)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>]([https://www.instagram.com/your-instagram-profile](https://www.instagram.com/d.a.r.s.h.a.n_?igsh=YW9lNmxub3B0MzBn&utm_source=qr))
+[<img src="https://img.icons8.com/color/48/000000/email.png"/>](mailto:job.darshanmurkute2308@gmail.com)
 
 <!---
 Darakshii/Darakshii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
