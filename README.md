@@ -1,4 +1,6 @@
-![Data Analyst Linkedin Background  (6)](https://github.com/Darakshii/Uber-Data-Analysis/assets/130299461/cb76d804-1c00-40d7-b31c-93a9d1d8df73)
+
+![Data Analyst Linkedin Background ](https://github.com/Darakshii/Easy-Car-Rental/assets/130299461/8a97a11b-5174-4394-bddf-5f04d961cfbf)
+
 
   # 👋 Hi, I’m @Darshan Murkute(Darakshii)
 
