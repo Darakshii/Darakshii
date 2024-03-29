@@ -1,5 +1,6 @@
 
-![Data Analyst Linkedin Background ](https://github.com/Darakshii/Easy-Car-Rental/assets/130299461/8a97a11b-5174-4394-bddf-5f04d961cfbf)
+![Data Analyst Linkedin Background  (1)](https://github.com/Darakshii/Easy-Car-Rental/assets/130299461/a56c1b94-c319-43b5-ad2e-b777bb182033)
+
 
 
   # 👋 Hi, I’m @Darshan Murkute(Darakshii)
