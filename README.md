@@ -8,7 +8,7 @@
 - 👀 I’m interested in Data Science, Data Analysis, and Business Analysis (SDLC Methodologies)
 - 🌱 I’m currently learning advanced machine learning techniques and data visualization tools
 - 💼 I’m looking to collaborate on projects related to predictive modeling, data-driven decision making, and business intelligence.
-- 📫 You can reach me via email at job.darshanmurkute2308@gmail.com 
+- 📫 You can reach me via email at job.darshanmurkute2308@gmail.com or my personal contact: +91 8976133639
 - ⚡ Fun fact: I love experimenting with different data visualization techniques to create captivating and insightful visualizations that tell compelling stories from raw data.
 
 ## Tools I'm Familiar With
