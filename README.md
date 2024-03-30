@@ -39,7 +39,7 @@
 
 ## Connect with me
 
-[<img src="https://img.icons8.com/fluent/48/000000/globe.png"/>](https://darshanmurkute-portfolio.teleporthq.app/)
+[<img src="https://img.icons8.com/ios/50/000000/earth-planet.png"/>](https://darshanmurkute-portfolio.teleporthq.app/)
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](www.linkedin.com/in/darshan-murkute)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://x.com/darsh_2308?s=21)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>]([https://www.instagram.com/your-instagram-profile](https://www.instagram.com/d.a.r.s.h.a.n_?igsh=YW9lNmxub3B0MzBn&utm_source=qr))
